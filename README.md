@@ -2,4 +2,4 @@
 
 We are awesome DBAs using GIT
 
-## We are making changes and iterating iteratively.
+## We are making changes and in an iterative fashion.
