@@ -1,5 +1,7 @@
 # Git for the DBA Baton Rouge SQL Server User groups
 
-We are awesome DBAs using GIT
+## Who are we
+We are awesome Data Professionals using GIT
 
-## We are making changes and in an iterative fashion.
+## What are we doing
+We are making a lot of changes and in an iterative fashion.
