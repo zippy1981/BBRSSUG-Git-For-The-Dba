@@ -1,0 +1,1 @@
+Write-Host 'We are so awesome we can use write-host'
